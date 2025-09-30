@@ -1,0 +1,14 @@
+C:\Endava\EndevLocal\C# Learning\WordScrambler\bin\Debug\net9.0\WordScrambler.exe
+C:\Endava\EndevLocal\C# Learning\WordScrambler\bin\Debug\net9.0\WordScrambler.deps.json
+C:\Endava\EndevLocal\C# Learning\WordScrambler\bin\Debug\net9.0\WordScrambler.runtimeconfig.json
+C:\Endava\EndevLocal\C# Learning\WordScrambler\bin\Debug\net9.0\WordScrambler.dll
+C:\Endava\EndevLocal\C# Learning\WordScrambler\bin\Debug\net9.0\WordScrambler.pdb
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.AssemblyInfo.cs
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.dll
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\refint\WordScrambler.dll
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.pdb
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\WordScrambler.genruntimeconfig.cache
+C:\Endava\EndevLocal\C# Learning\WordScrambler\obj\Debug\net9.0\ref\WordScrambler.dll
